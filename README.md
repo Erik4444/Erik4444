@@ -11,8 +11,8 @@ AI engineer and M.Sc. Computer Science student at the University of Münster. I 
 | [federated-inference](https://github.com/Erik4444/federated-inference) | Serve one quantized LLM across a Mac and Android phones via llama.cpp RPC, behind an OpenAI-compatible gateway | Python, gRPC, FastAPI, llama.cpp |
 | [air-sdk](https://github.com/Erik4444/air-sdk) | TypeScript client for my LLM routing gateway: streaming, tool-call events, model-selection trace | TypeScript |
 | [flux](https://github.com/Erik4444/flux) · [wan2.2](https://github.com/Erik4444/wan2.2) | Text-to-image and text-to-video on an A100 cluster, evaluated as stages of a text-to-VR pipeline | Python, Diffusers, SLURM |
-| [EvoSim](https://github.com/Erik4444/EvoSim) | Neuroevolution in the browser: agents evolve network size, activation function and mutation rate | JavaScript, Canvas |
-| [KP-Index](https://github.com/Erik4444/KP-Index) | Aurora watch for Germany: real-time Kp index as web dashboard and terminal UI | Python, FastAPI, Textual |
+
+**Side projects:** [EvoSim](https://github.com/Erik4444/EvoSim) (neuroevolution in the browser) · [KP-Index](https://github.com/Erik4444/KP-Index) (aurora watch for Germany)
 
 ## Toolbox
 
